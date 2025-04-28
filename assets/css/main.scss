@@ -61,12 +61,15 @@
             object-fit: cover;
         }
     }
+
     
     .paper-box-text{
         max-width: 100%;
         order: 1;
     }
-    
+
+
+
     @include breakpoint($medium) {
         .paper-box-image{
             justify-content: left;
@@ -84,8 +87,55 @@
 
     }
 
+}
+
+.photo-box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+    padding: 2em 0 2em 0;
+
+    
+    .photo-box-image{
+        justify-content: center;
+        display: flex;
+        width: 33%;
+        order: 2;
+        padding: 0 0.5em 0.5em 0;
+        img {
+            max-height: 225px;
+            box-shadow: none;
+            object-fit: cover;
+        }
+
+    }
+    
+    .photo-box-text{
+        max-width: 100%;
+        order: 1;
+    }
+
+
+    @include breakpoint($medium) {
+        .photo-box-image{
+            justify-content: left;
+            min-width: 200px;
+            max-width: 40%;
+            order: 1;
+        }
+        
+        .photo-box-text{
+            justify-content: left;
+            padding-left: 2em;
+            max-width: 60%;
+            order: 2;
+        }
+    }
 
 }
+
 
 $scroll_offset : 2em;
 h1:before, .anchor:before { 
