@@ -90,22 +90,27 @@
 }
 
 .photo-box {
-    .photo-box-image {
     display: flex;
     justify-content: center;
-    align-items: center; /* 确保图片垂直居中 */
-    width: 33%;  /* 每个容器占页面宽度的 33% */
-    padding: 0 0.5em 0.5em 0;
-    box-sizing: border-box; /* 确保 padding 不影响实际宽度 */
-    height: 300px;  /* 给每个容器设置固定高度 */
-}
+    align-items: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+    padding: 2em 0 2em 0;
 
-.photo-box-image img {
-    width: 100%; /* 图片宽度填满父容器 */
-    height: 100%; /* 图片高度填满父容器 */
-    object-fit: cover; /* 保持比例并填充整个容器 */
-    box-shadow: none;
-}
+    
+    .photo-box-image{
+        justify-content: center;
+        display: flex;
+        width: 33%;
+        order: 2;
+        padding: 0 0.5em 0.5em 0;
+        img {
+            max-height: 220px;
+            box-shadow: none;
+            object-fit: cover;
+        }
+
+    }
     
     .photo-box-text{
         max-width: 100%;
