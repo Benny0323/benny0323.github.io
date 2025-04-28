@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Zhanghao Chen (陈章昊)"
+  name             : "Zhanghao Chen"
   avatar           : "images/avatar.jpg"
   bio              : "Hangzhou Dianzi University"
   location         : "Hangzhou, China"
