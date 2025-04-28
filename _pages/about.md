@@ -98,6 +98,16 @@ Binfeng Zou, Yifei Chen, Zhanghao Chen, **Yifei Sun**, Yifan Huang, Feiwei Qin*,
 </div>
 </div>
 
+# 🧑🏻‍💻 Software
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024.11</div><img src='images/DMBBSSCXR.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+[Diffusion Model-Based Bone Suppression System for Chest X-Ray]()
+  
+**Yifei Sun**, Ruihan Yang, Zhanghao Chen
+</div>
+</div>
+
 </div>
 </div>
 
