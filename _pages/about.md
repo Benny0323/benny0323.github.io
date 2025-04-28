@@ -19,8 +19,7 @@ redirect_from:
 # 😉 About Me
 I am a fourth-year undergraduate student studying computer science and technology at [Hangzhou Dianzi University](https://www.hdu.edu.cn/main.htm) where I am advised by [Prof. Ruiquan Ge](https://faculty.hdu.edu.cn/jsjxy/grq/main.htm) and [Prof. Changmiao Wang](https://www.sribd.cn/teacher/505). And I plan to pursue my master's degree at the Laboratory of Image Science and Technology, School of Computer Science and Engineering, [Southeast University](https://www.seu.edu.cn), Nanjing, and also with the [Key Laboratory of New Generation Artificial Intelligence Technology and Its Interdisciplinary Applications (Southeast University)](https://aiia.seu.edu.cn), Ministry of Education, China, advised by [Prof. Yikun Zhang](https://cs.seu.edu.cn/yikun/main.htm) specialized in **SAM & Diffusion Model-Based CT Metal Artifact Reduction (MAR)**.
 
-I have a broad interest in deep learning models, with a primary focus on medical image analysis.
-I am also an enthusiastic self-learner and interested in various fields of computer science. **From Nov 2024 t0 Feb 2025, I was interning at [Hikvision Research](https://www.hikvision.com/cn/) Institute, focusing on Deep Learning-Based 3D Depth From Focus for Extended Depth-of-Field Microscopy**.
+I have a broad interest in deep learning models, with a primary focus on medical image analysis. I am also an enthusiastic self-learner and interested in various fields of computer science. 
 
 
 <a href='https://scholar.google.com/citations?user=QEVTqsoAAAAJ&hl=en'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=Citations"></a>
@@ -40,12 +39,13 @@ I am also an enthusiastic self-learner and interested in various fields of compu
 
 # 📖 Educations
 - *2021.09 - Present*, Undergraduate student: Computer Science and Technology, Hangzhou Dianzi University, Hangzhou, China
-- * From 2025.09*, Master student: Computer Science and Technology, Southeast University, Nanjing, China
+- *From 2025.09*, Master student: Computer Science and Technology, Southeast University, Nanjing, China
 
 # 💻 Internships
+- *2024.11 - 2025.02*: [Hikvision Research](https://www.hikvision.com/cn/) Institute, Hangzhou Hikvision, Hangzhou, China
 - *2023.06 - Present*: Healthcare Big Data Lab, Shenzhen Research Institute of Big Data, Shenzhen, China
 - *2023.06 - Present*: Advanced Networking and Big Data Lab, Hangzhou Dianzi University, Hangzhou, China
-- *2022.09 - 2023.09*: Smart Car Lab, Hangzhou Dianzi University, Hangzhou, China
+
 
 # 🔥 News
 - *2025.01*: &nbsp;🎉🎉 Our new paper for [IEEE ISBI 2025](https://biomedicalimaging.org/2025) was **Accepted**!
