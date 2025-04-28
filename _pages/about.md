@@ -98,7 +98,7 @@ Ruiquan Ge, Zhaojie Fang, Pengxue Wei, **Zhanghao Chen**, Hongyang Jiang, Ahmed 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAIP 2023</div><img src='images/UWAT-GAN.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2023</div><img src='images/UWAT-GAN.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 [Uwat-gan: Fundus fluorescein angiography synthesis via ultra-wide-angle transformation multi-scale gan](https://link.springer.com/chapter/10.1007/978-3-031-43990-2_70)
