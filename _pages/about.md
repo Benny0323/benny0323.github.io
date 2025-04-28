@@ -17,7 +17,10 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 # 😉 About Me
-I am a 3rd-year undergraduate student studying **Computer Science and Technology** at [Hangzhou Dianzi University](https://www.hdu.edu.cn/main.htm) where I am advised by [Prof. Ruiquan Ge (葛瑞泉)](https://faculty.hdu.edu.cn/jsjxy/grq/main.htm) and [Prof. Changmiao Wang (王昌淼)](https://www.sribd.cn/teacher/505). I have a broad interest in **Computer Vision** and **Medical Image Analysis**, with a primary focus on **Biomedical Imaging**.
+I am a fourth-year undergraduate student studying computer science and technology at [Hangzhou Dianzi University](https://www.hdu.edu.cn/main.htm) where I am advised by [Prof. Ruiquan Ge](https://faculty.hdu.edu.cn/jsjxy/grq/main.htm) and [Prof. Changmiao Wang](https://www.sribd.cn/teacher/505). And I plan to pursue my master's degree at the Laboratory of Image Science and Technology, School of Computer Science and Engineering, [Southeast University](https://www.seu.edu.cn), Nanjing, and also with the [Key Laboratory of New Generation Artificial Intelligence Technology and Its Interdisciplinary Applications (Southeast University)](https://aiia.seu.edu.cn), Ministry of Education, China, advised by [Prof. Yikun Zhang](https://cs.seu.edu.cn/yikun/main.htm) specialized in **SAM & Diffusion Model-Based CT Metal Artifact Reduction (MAR)**.
+
+I have a broad interest in deep learning models, with a primary focus on medical image analysis.
+I am also an enthusiastic self-learner and interested in various fields of computer science. **From Nov 2024 t0 Feb 2025, I was interning at [Hikvision Research](https://www.hikvision.com/cn/) Institute, focusing on Deep Learning-Based 3D Depth From Focus for Extended Depth-of-Field Microscopy**.
 
 
 <a href='https://scholar.google.com/citations?user=4anytcgAAAAJ&hl=zh-CN'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=Citations"></a>
