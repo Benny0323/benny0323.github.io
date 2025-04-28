@@ -49,9 +49,11 @@ I have a broad interest in deep learning models, with a primary focus on Medical
 
 # 🔥 News
 - *2024.12*: &nbsp;🎉🎉 We won the **International Bronze Medal** in the [China International College Students' Innovation Competition 2024](https://pilcchina.org/home)!
+- *2024.04*: &nbsp;🎉🎉 Our new paper for [IEEE JBHI](https://www.embs.org/jbhi/) was **Accepted**!
 - *2024.04*: &nbsp;🎉🎉 Our new paper for [IEEE ISBI 2024](https://biomedicalimaging.org/2024) was selected for **Oral Presentation**!
 - *2024.02*: &nbsp;🎉🎉 Our new paper for [IEEE ISBI 2024](https://biomedicalimaging.org/2024) was **Accepted**!
 - *2023.12*: &nbsp;🎉🎉 We won the **International Bronze Medal** in the [China International College Students' Innovation Competition 2023](https://pilcchina.org/home)!
+- *2023.05*: &nbsp;🎉🎉 Our new paper for [MICCAI 2023](https://conferences.miccai.org/2023/en/) was **Accpted**!
 - *2023.06*: &nbsp;🎉🎉 Our new paper for [ICSIP 2023](https://www.icsip.org/2023.html) was **Accepted**!
 
 # 🏅 Honors
