@@ -39,7 +39,7 @@ I have a broad interest in deep learning models, with a primary focus on Medical
 
 # 📖 Educations
 - *2021.09 - Present*, Undergraduate student: Computer Science and Technology, Hangzhou Dianzi University, Hangzhou, China
-- *2025.09 - 2028.06*, Master student: Computer Science and Technology, Southeast University, Nanjing, China
+- *2025.09 - *, Master student: Computer Science and Technology, Southeast University, Nanjing, China
 
 # 💻 Internships
 - *2024.11 - 2025.02*: [Hikvision Research](https://www.hikvision.com/cn/) Institute, Hangzhou Hikvision, Hangzhou, China
@@ -48,13 +48,13 @@ I have a broad interest in deep learning models, with a primary focus on Medical
 
 
 # 🔥 News
-- *2024.12*: &nbsp;🎉🎉 We won the **International Bronze Medal** in the [China International College Students' Innovation Competition 2024](https://pilcchina.org/home)!
-- *2024.05*: &nbsp;🎉🎉 We won the **Provincial Silver Medal** in the [The 14th Zhejiang Province ‘Challenge Cup’ College Students’ Entrepreneurship Plan Competition](https://pilcchina.org/home)!
+- *2024.12*: &nbsp;🎉🎉 We won the **International Bronze Medal** in the [China International College Students' Innovation Competition 2024](https://cy.ncss.cn)!
+- *2024.05*: &nbsp;🎉🎉 We won the **Provincial Silver Medal** in the The 14th Zhejiang Province ‘Challenge Cup’ College Students’ Entrepreneurship Plan Competition!
 - *2024.05*: &nbsp;🎉🎉 We won the **National Bronze Medal** in the [China University Student Service Outsourcing Innovation and Entrepreneurship Competition 2024](http://www.fwwb.org.cn)!
 - *2024.04*: &nbsp;🎉🎉 Our new paper for [IEEE JBHI](https://www.embs.org/jbhi/) was **Accepted**!
 - *2024.04*: &nbsp;🎉🎉 Our new paper for [IEEE ISBI 2024](https://biomedicalimaging.org/2024) was selected for **Oral Presentation**!
 - *2024.02*: &nbsp;🎉🎉 Our new paper for [IEEE ISBI 2024](https://biomedicalimaging.org/2024) was **Accepted**!
-- *2023.12*: &nbsp;🎉🎉 We won the **International Bronze Medal** in the [China International College Students' Innovation Competition 2023](https://pilcchina.org/home)!
+- *2023.12*: &nbsp;🎉🎉 We won the **International Bronze Medal** in the [China International College Students' Innovation Competition 2023](https://cy.ncss.cn)!
 - *2023.05*: &nbsp;🎉🎉 Our new paper for [MICCAI 2023](https://conferences.miccai.org/2023/en/) was **Accpted**!
 - *2023.06*: &nbsp;🎉🎉 Our new paper for [ICSIP 2023](https://www.icsip.org/2023.html) was **Accepted**!
 
