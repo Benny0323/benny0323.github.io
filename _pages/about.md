@@ -27,12 +27,12 @@ I have a broad interest in deep learning models, with a primary focus on Medical
 
 
 <div class='photo-box'>
-  <div class='photo-box-image'><div><img src='images/p/1.jpg' alt="sym" width="320" height="230"></div></div>
-  <div class='photo-box-image'><div><img src='images/p/2.jpg' alt="sym" width="320" height="200"></div></div>
-  <div class='photo-box-image'><div><img src='images/p/3.jpg' alt="sym" width="320" height="200"></div></div>
-  <div class='photo-box-image'><div><img src='images/p/4.jpg' alt="sym" width="320" height="230"></div></div>
-  <div class='photo-box-image'><div><img src='images/p/5.jpg' alt="sym" width="320" height="200"></div></div>
-  <div class='photo-box-image'><div><img src='images/p/6.jpg' alt="sym" width="320" height="230"></div></div>
+  <div class='photo-box-image'><div><img src='images/p/1.jpg' alt="sym" width="320" height="250"></div></div>
+  <div class='photo-box-image'><div><img src='images/p/2.jpg' alt="sym" width="320" height="250"></div></div>
+  <div class='photo-box-image'><div><img src='images/p/3.jpg' alt="sym" width="320" height="250"></div></div>
+  <div class='photo-box-image'><div><img src='images/p/4.jpg' alt="sym" width="320" height="250"></div></div>
+  <div class='photo-box-image'><div><img src='images/p/5.jpg' alt="sym" width="320" height="250"></div></div>
+  <div class='photo-box-image'><div><img src='images/p/6.jpg' alt="sym" width="320" height="250"></div></div>
 </div>
 
 
