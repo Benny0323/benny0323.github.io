@@ -24,7 +24,7 @@ I am also an enthusiastic self-learner and interested in various fields of compu
 
 
 <a href='https://scholar.google.com/citations?user=QEVTqsoAAAAJ&hl=en'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=Citations"></a>
-[![](https://img.shields.io/github/stars/diaoquesang?style=social)](https://github.com/diaoquesang)
+[![](https://img.shields.io/github/stars/diaoquesang?style=social)](https://github.com/benny0323)
 
 
 <div class='photo-box'>
@@ -39,7 +39,8 @@ I am also an enthusiastic self-learner and interested in various fields of compu
 
 
 # 📖 Educations
-- *2022.08 - Present*, Undergraduate student: Computer Science and Technology, Hangzhou Dianzi University, Hangzhou, China
+- *2021.09 - Present*, Undergraduate student: Computer Science and Technology, Hangzhou Dianzi University, Hangzhou, China
+- * From 2025.09*, Master student: Computer Science and Technology, Southeast University, Nanjing, China
 
 # 💻 Internships
 - *2023.06 - Present*: Healthcare Big Data Lab, Shenzhen Research Institute of Big Data, Shenzhen, China
