@@ -43,8 +43,8 @@ I have a broad interest in deep learning models, with a primary focus on Medical
 
 # 💻 Internships
 - *2024.11 - 2025.02*: [Hikvision Research](https://www.hikvision.com/cn/) Institute, Hangzhou Hikvision, Hangzhou, China
-- *2023.06 - Present*: Healthcare Big Data Lab, Shenzhen Research Institute of Big Data, Shenzhen, China
-- *2023.06 - Present*: Advanced Networking and Big Data Lab, Hangzhou Dianzi University, Hangzhou, China
+- *2023.06 - Present*: Healthcare Big Data Lab, [Shenzhen Research Institute of Big Data](https://www.sribd.cn), Shenzhen, China
+- *2023.06 - Present*: Advanced Networking and Big Data Lab, [Hangzhou Dianzi University](https://www.hdu.edu.cn), Hangzhou, China
 
 
 # 🔥 News
