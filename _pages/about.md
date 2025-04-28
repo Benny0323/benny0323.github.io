@@ -76,7 +76,7 @@ I have a broad interest in deep learning models, with a primary focus on Medical
   
 [BS-LDM: Effective Bone Suppression in High-Resolution Chest X-Ray Images with Conditional Latent Diffusion Models](https://arxiv.org/abs/2412.15670)
   
-**Yifei Sun**, Zhanghao Chen, Hao Zheng, Wenming Deng, Jin Liu, Wenwen Min, Ahmed Elazab, Xiang Wan, Changmiao Wang*, Ruiquan Ge*
+Yifei Sun, **Zhanghao Chen**, Hao Zheng, Wenming Deng, Jin Liu, Wenwen Min, Ahmed Elazab, Xiang Wan, Changmiao Wang*, Ruiquan Ge*
 </div>
 </div>
 
@@ -85,7 +85,25 @@ I have a broad interest in deep learning models, with a primary focus on Medical
   
 [BS-Diff: Effective Bone Suppression Using Conditional Diffusion Models from Chest X-Ray Images](https://ieeexplore.ieee.org/abstract/document/10635371/)
   
-Zhanghao Chen, **Yifei Sun**, Wenjian Qin, Ruiquan Ge*, Cheng Pan, Wenming Deng, Zhou Liu, Wenwen Min, Ahmed Elazab, Xiang Wan, Changmiao Wang*
+**Zhanghao Chen**, Yifei Sun, Wenjian Qin, Ruiquan Ge*, Cheng Pan, Wenming Deng, Zhou Liu, Wenwen Min, Ahmed Elazab, Xiang Wan, Changmiao Wang*
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JBHI 2024</div><img src='images/UWAFA-GAN.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+[UWAFA-GAN: ultra-wide-angle fluorescein angiography transformation via multi-scale generation and registration enhancement](https://ieeexplore.ieee.org/abstract/document/10509705/)
+  
+Ruiquan Ge, Zhaojie Fang, Pengxue Wei, **Zhanghao Chen**, Hongyang Jiang, Ahmed Elazab, Wangting Li, Xiang Wan, Shaochong Zhang, Changmiao Wang
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAIP 2023</div><img src='images/UWAT-GAN.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+[Uwat-gan: Fundus fluorescein angiography synthesis via ultra-wide-angle transformation multi-scale gan](https://link.springer.com/chapter/10.1007/978-3-031-43990-2_70)
+  
+Zhaojie Fang, **Zhanghao Chen**, Pengxue Wei, Wangting Li, Shaochong Zhang, Ahmed Elazab, Gangyong Jia, Ruiquan Ge, Changmiao Wang
 </div>
 </div>
 
@@ -94,7 +112,7 @@ Zhanghao Chen, **Yifei Sun**, Wenjian Qin, Ruiquan Ge*, Cheng Pan, Wenming Deng,
   
 [RTUNet++: Assessment of Osteosarcoma MRI Image Segmentation leveraging Hybrid CNN-Transformer Approach with Dense Skip Connection](https://ieeexplore.ieee.org/abstract/document/10270849)
   
-Binfeng Zou, Yifei Chen, Zhanghao Chen, **Yifei Sun**, Yifan Huang, Feiwei Qin*, Changmiao Wang
+Binfeng Zou, Yifei Chen, **Zhanghao Chen**, Yifei Sun, Yifan Huang, Feiwei Qin*, Changmiao Wang
 </div>
 </div>
 
