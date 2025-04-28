@@ -49,7 +49,7 @@ I have a broad interest in deep learning models, with a primary focus on Medical
 
 # 🔥 News
 - *2024.12*: &nbsp;🎉🎉 We won the **International Bronze Medal** in the [China International College Students' Innovation Competition 2024](https://pilcchina.org/home)!
-- *2024.05*: &nbsp;🎉🎉 We won the **Provitional Silver Medal** in the [The 14th Zhejiang Province ‘Challenge Cup’ College Students’ Entrepreneurship Plan Competition](https://pilcchina.org/home)!
+- *2024.05*: &nbsp;🎉🎉 We won the **Provincial Silver Medal** in the [The 14th Zhejiang Province ‘Challenge Cup’ College Students’ Entrepreneurship Plan Competition](https://pilcchina.org/home)!
 - *2024.05*: &nbsp;🎉🎉 We won the **National Bronze Medal** in the [China University Student Service Outsourcing Innovation and Entrepreneurship Competition 2024](http://www.fwwb.org.cn)!
 - *2024.04*: &nbsp;🎉🎉 Our new paper for [IEEE JBHI](https://www.embs.org/jbhi/) was **Accepted**!
 - *2024.04*: &nbsp;🎉🎉 Our new paper for [IEEE ISBI 2024](https://biomedicalimaging.org/2024) was selected for **Oral Presentation**!
@@ -104,7 +104,7 @@ Binfeng Zou, Yifei Chen, Zhanghao Chen, **Yifei Sun**, Yifan Huang, Feiwei Qin*,
   
 [Diffusion Model-Based Bone Suppression System for Chest X-Ray]()
   
-**Yifei Sun**, Ruihan Yang, Zhanghao Chen
+Yifei Sun, Ruihan Yang, **Zhanghao Chen**
 </div>
 </div>
 
