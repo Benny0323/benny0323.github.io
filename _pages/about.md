@@ -23,7 +23,7 @@ I have a broad interest in deep learning models, with a primary focus on medical
 I am also an enthusiastic self-learner and interested in various fields of computer science. **From Nov 2024 t0 Feb 2025, I was interning at [Hikvision Research](https://www.hikvision.com/cn/) Institute, focusing on Deep Learning-Based 3D Depth From Focus for Extended Depth-of-Field Microscopy**.
 
 
-<a href='https://scholar.google.com/citations?user=4anytcgAAAAJ&hl=zh-CN'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=Citations"></a>
+<a href='https://scholar.google.com/citations?user=QEVTqsoAAAAJ&hl=en'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=Citations"></a>
 [![](https://img.shields.io/github/stars/diaoquesang?style=social)](https://github.com/diaoquesang)
 
 
