@@ -27,19 +27,19 @@ I have a broad interest in deep learning models, with a primary focus on Medical
 
 
 <div class='photo-box'>
-  <div class='photo-box-image'><div><img src='images/p/1.jpg' alt="sym" width="300" height="200"></div></div>
-  <div class='photo-box-image'><div><img src='images/p/2.jpg' alt="sym" width="300" height="200"></div></div>
-  <div class='photo-box-image'><div><img src='images/p/3.jpg' alt="sym" width="300" height="200"></div></div>
-  <div class='photo-box-image'><div><img src='images/p/4.jpg' alt="sym" width="300" height="200"></div></div>
-  <div class='photo-box-image'><div><img src='images/p/5.jpg' alt="sym" width="300" height="200"></div></div>
-  <div class='photo-box-image'><div><img src='images/p/6.jpg' alt="sym" width="300" height="200"></div></div>
+  <div class='photo-box-image'><div><img src='images/p/1.jpg' alt="sym" width="250" height="200"></div></div>
+  <div class='photo-box-image'><div><img src='images/p/2.jpg' alt="sym" width="250" height="200"></div></div>
+  <div class='photo-box-image'><div><img src='images/p/3.jpg' alt="sym" width="250" height="200"></div></div>
+  <div class='photo-box-image'><div><img src='images/p/4.jpg' alt="sym" width="250" height="200"></div></div>
+  <div class='photo-box-image'><div><img src='images/p/5.jpg' alt="sym" width="250" height="200"></div></div>
+  <div class='photo-box-image'><div><img src='images/p/6.jpg' alt="sym" width="250" height="200"></div></div>
 </div>
 
 
 
 # 📖 Educations
-- *2021.09 - Present*, Undergraduate student: Computer Science and Technology, Hangzhou Dianzi University, Hangzhou, China
-- *2025.09 - *, Master student: Computer Science and Technology, Southeast University, Nanjing, China
+- *2021.09 - 2025.06*, Undergraduate student: Computer Science and Technology, Hangzhou Dianzi University, Hangzhou, China
+- *2025.09 - 2028.06*, Master student: Computer Science and Technology, Southeast University, Nanjing, China
 
 # 💻 Internships
 - *2024.11 - 2025.02*: [Hikvision Research](https://www.hikvision.com/cn/) Institute, Hangzhou Hikvision, Hangzhou, China
