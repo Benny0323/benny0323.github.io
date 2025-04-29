@@ -21,9 +21,9 @@ I am a fourth-year undergraduate student studying computer science and technolog
 
 I have a broad interest in deep learning models, with a primary focus on Medical Image Analysis and Generative Models. I am also an enthusiastic self-learner and interested in various fields of computer science. 
 
-<a href='https://scholar.google.com/citations?user=QEVTqsoAAAAJ&hl=en'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=Citations"></a>
-	<img alt="GitHub User's stars" src="https://img.shields.io/github/stars/benny0323">
-	<img alt="GitHub followers" src="https://img.shields.io/github/followers/benny0323">
+
+<img alt="GitHub User's stars" src="https://img.shields.io/github/stars/benny0323">
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/benny0323">
 
 
 <div class='photo-box'>
