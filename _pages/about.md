@@ -21,6 +21,8 @@ I am a fourth-year undergraduate student studying computer science and technolog
 
 I have a broad interest in deep learning models, with a primary focus on **Medical Image Analysis and Generative Models**. I am also an enthusiastic self-learner and interested in various fields of computer science. 
 
+📫 How to contact me: [bennychan@hdu.edu.cn](bennychan@hdu.edu.cn).
+
 <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/benny0323">
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/benny0323">
 
@@ -60,6 +62,7 @@ I have a broad interest in deep learning models, with a primary focus on **Medic
 # 🏅 Honors
 
 - *2023-2024*: National Scholarship (**Top 0.4%**)
+- *2023-2024*: [Top 10 Students of HDU-ITMO Joint Institute](https://mp.weixin.qq.com/s/RFjA5qvCV8Tyaz0dk7Jwhg) (**Top 1.25%**)
 - *2022-2023*: Zhejiang Provincial Government Scholarship (**Top 3%**)
 - *2021-2022*: Zhejiang Provincial Government Scholarship (**Top 3%**)
 
