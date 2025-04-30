@@ -8,12 +8,18 @@ redirect_from:
   - /about.html
 ---
 
+{% if site.google_scholar_stats_use_cdn %}
+{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
+{% else %}
+{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
+{% endif %}
+{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
 # 😉 About Me
 I am a fourth-year undergraduate student studying computer science and technology at [Hangzhou Dianzi University](https://www.hdu.edu.cn/main.htm) where I am advised by [Prof. Ruiquan Ge](https://faculty.hdu.edu.cn/jsjxy/grq/main.htm) and [Prof. Changmiao Wang](https://www.sribd.cn/teacher/505). And I plan to pursue my master's degree at the Laboratory of Image Science and Technology, School of Computer Science and Engineering, [Southeast University](https://www.seu.edu.cn), Nanjing, and also with the [Key Laboratory of New Generation Artificial Intelligence Technology and Its Interdisciplinary Applications (Southeast University)](https://aiia.seu.edu.cn), Ministry of Education, China, advised by [Prof. Yikun Zhang](https://cs.seu.edu.cn/yikun/main.htm) specialized in **SAM And Diffusion Model-Based CT Metal Artifact Reduction (MAR)**.
 
-I have a broad interest in deep learning models, with a primary focus on Medical Image Analysis and Generative Models. I am also an enthusiastic self-learner and interested in various fields of computer science. 
+I have a broad interest in deep learning models, with a primary focus on **Medical Image Analysis and Generative Models**. I am also an enthusiastic self-learner and interested in various fields of computer science. 
 
 <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/benny0323">
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/benny0323">
@@ -31,8 +37,8 @@ I have a broad interest in deep learning models, with a primary focus on Medical
 
 
 # 📖 Educations
-- *2021.09 - 2025.06*, Undergraduate student: Computer Science and Technology, Hangzhou Dianzi University, Hangzhou, China
-- *2025.09 - 2028.06*, Master student: Computer Science and Technology, Southeast University, Nanjing, China
+- *2021.09 - 2025.06*, Undergraduate student: Computer Science and Technology, [Hangzhou Dianzi University](https://www.hdu.edu.cn), Hangzhou, China
+- *2025.09 - 2028.06*, Master student: Computer Science and Technology, [Southeast University](https://www.seu.edu.cn), Nanjing, China
 
 # 💻 Internships
 - *2024.11 - 2025.02*: [Hikvision Research](https://www.hikvision.com/cn/) Institute, Hangzhou Hikvision, Hangzhou, China
