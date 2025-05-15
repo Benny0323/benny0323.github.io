@@ -141,7 +141,7 @@ Yifei Sun, Ruihan Yang, **Zhanghao Chen**
   });
 </script>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2025.05</div><img src='images/Battleplan Extinguished Sins.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2025.05</div><img src='images/单车.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 [Bicycle by Eason Chan](https://www.youtube.com/watch?v=AfPUiV-jamA&pp=ygUKI-Wllei7iuS6ug%3D%3D)
