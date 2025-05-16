@@ -61,6 +61,8 @@ I have a broad interest in deep learning models, with a primary focus on **Medic
 
 # 🏅 Honors
 
+- *2024-2025*: Outstanding Graduation Thesis of Hangzhou Dianzi University (**Top 0.2%**)
+- *2024-2025*: Zhejiang Provincial Outstanding Graduate (**Top 0.3%**)
 - *2023-2024*: National Scholarship (**Top 0.4%**)
 - *2023-2024*: [Top 10 Students of HDU-ITMO Joint Institute](https://mp.weixin.qq.com/s/RFjA5qvCV8Tyaz0dk7Jwhg) (**Top 1.25%**)
 - *2022-2023*: Zhejiang Provincial Government Scholarship (**Top 3%**)
