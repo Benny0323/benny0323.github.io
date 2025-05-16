@@ -50,7 +50,7 @@ I have a broad interest in deep learning models, with a primary focus on **Medic
 
 # 🔥 News
 - *2024.12*: &nbsp;🎉🎉 We won the **International Bronze Medal** in the [China International College Students' Innovation Competition 2024](https://cy.ncss.cn)!
-- *2024.09*: &nbsp;🎉🎉 I am admitted to the Master’s Program in Computer Technology at the School of Computer Science and Engineering, Southeast University via postgraduate recommendation!
+- *2024.09*: &nbsp;🎉🎉 I am admitted to the Master’s Program in Computer Technology at the School of Computer Science and Engineering, **Southeast University via postgraduate recommendation**!
 - *2024.05*: &nbsp;🎉🎉 We won the **Provincial Silver Medal** in the 14th Zhejiang Province ‘Challenge Cup’ College Students’ Entrepreneurship Plan Competition!
 - *2024.05*: &nbsp;🎉🎉 We won the **National Bronze Medal** in the [China University Student Service Outsourcing Innovation and Entrepreneurship Competition 2024](http://www.fwwb.org.cn)!
 - *2024.04*: &nbsp;🎉🎉 Our new paper for [IEEE JBHI](https://www.embs.org/jbhi/) was **Accepted**!
