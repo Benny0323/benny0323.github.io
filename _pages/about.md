@@ -39,7 +39,8 @@ I have a broad interest in deep learning models, with a primary focus on **Medic
 
 
 # 📖 Educations
-- *2021.09 - 2025.06*, Undergraduate student: Computer Science and Technology, [Hangzhou Dianzi University](https://www.hdu.edu.cn), Hangzhou, China
+- *2021.09 - 2025.06*, Undergraduate student (Double Degree): Computer Science and Technology, [Hangzhou Dianzi University](https://www.hdu.edu.cn), Hangzhou, China
+- *2021.09 - 2025.06*, Undergraduate student (Double Degree): Computer Science and Technology, [ITMO University](https://itmo.ru), Saint Petersburg, Russia
 - *2025.09 - 2028.06*, Master student: Computer Science and Technology, [Southeast University](https://www.seu.edu.cn), Nanjing, China
 
 # 💻 Internships
