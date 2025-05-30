@@ -160,7 +160,7 @@ Yifei Sun, Ruihan Yang, **Zhanghao Chen**
 </div>
 </div>
 
-# 🤝 Collabarator
+# 🤝 Collaborator
 [Yifei Sun in Hangzhou Dianzi University](https://diaoquesang.github.io)
 
 [Yifei Chen in Tsinghua University](https://justlfc03.github.io)
