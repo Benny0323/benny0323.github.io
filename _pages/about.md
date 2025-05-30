@@ -160,10 +160,15 @@ Yifei Sun, Ruihan Yang, **Zhanghao Chen**
 </div>
 </div>
 
-# 🤝 Collabarators 
+# 🤝 Collabarator
 [[Yifei Sun in Hangzhou Dianzi University]](https://diaoquesang.github.io)
+
 [[Yifei Chen in Tsinghua University]](https://justlfc03.github.io)
+
 [[Yikun Zhang in Southeast University]](https://cs.seu.edu.cn/yikun/main.htm)
+
 [[Zhaojie Fang in The Chinese University of Hong Kong, Shenzhen]](https://github.com/Tinysqua)
+
 [[Ruiquan Ge in Hangzhou Dianzi University]](https://greyspring.github.io)
+
 [[Changmiao Wang in Shenzhen Research Institute of Big Data]](https://scholar.google.com/citations?user=47KhMXEAAAAJ&hl=en)
