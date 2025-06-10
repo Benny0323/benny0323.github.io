@@ -63,7 +63,7 @@ I have a broad interest in deep learning models, with a primary focus on **Medic
 - *2023.06*: &nbsp;🎉🎉 Our new paper for [ICSIP 2023](https://www.icsip.org/2023.html) was **Accepted**!
 
 # 🏅 Honors
-
+- *2021-2025*: ITMO University's Diploma With Honors (**Top 0.3%**)
 - *2024-2025*: Outstanding Graduation Thesis of Hangzhou Dianzi University (**Top 0.2%**)
 - *2024-2025*: Zhejiang Provincial Outstanding Graduate (**Top 0.3%**)
 - *2023-2024*: National Scholarship (**Top 0.4%**)
