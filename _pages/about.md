@@ -130,7 +130,7 @@ Zhaojie Fang, **Zhanghao Chen**, Pengxue Wei, Wangting Li, Shaochong Zhang, Ahme
   
 [RTUNet++: Assessment of Osteosarcoma MRI Image Segmentation leveraging Hybrid CNN-Transformer Approach with Dense Skip Connection](https://ieeexplore.ieee.org/abstract/document/10270849)
   
-Binfeng Zou, Yifei Chen, **Zhanghao Chen**, Yifei Sun, Yifan Huang, Feiwei Qin*, Changmiao Wang
+Binfeng Zou, Yifei Chen, **Zhanghao Chen**, Yifei Sun, Yifan Huang, Feiwei Qin†, Changmiao Wang
 </div>
 </div>
 
