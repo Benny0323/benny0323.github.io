@@ -50,6 +50,7 @@ I have a broad interest in deep learning models, with a primary focus on **Medic
 
 
 # 🔥 News
+- *2025.06*: &nbsp;🎉🎉 Our new paper for [MICCAI 2025](https://conferences.miccai.org/2025/en/default.asp) was **Accpted**!
 - *2025.06*: &nbsp;🎉🎉 We won the **National Third Prize** in the [10th National College Student Life Sciences Competition](https://culsc.cn/)!
 - *2024.12*: &nbsp;🎉🎉 We won the **International Bronze Medal** in the [China International College Students' Innovation Competition 2024](https://cy.ncss.cn)!
 - *2024.09*: &nbsp;🎉🎉 I am admitted to the Master’s Program in Computer Technology at the School of Computer Science and Engineering, **Southeast University via postgraduate recommendation**!
@@ -79,12 +80,21 @@ I have a broad interest in deep learning models, with a primary focus on **Medic
 # 💡 Publications 
 Please visit my [Google Scholar](https://scholar.google.com/citations?user=QEVTqsoAAAAJ&hl=en) page for full publications.
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2025</div><img src='images/GL-LCM.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+[GL-LCM: Global-Local Latent Consistency Models for Fast High-Resolution Bone Suppression in Chest X-Ray Images](https://diaoquesang.github.io/GL-LCM-Project-Page/)
+  
+Yifei Sun, **Zhanghao Chen**, Hao Zheng, Yuqing Lu, Lixin Duan, Fenglei Fan, Ahmed Elazab, Xiang Wan, Changmiao Wang†, Ruiquan Ge†
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv preprint 2024</div><img src='images/BS-LDM.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 [BS-LDM: Effective Bone Suppression in High-Resolution Chest X-Ray Images with Conditional Latent Diffusion Models](https://arxiv.org/abs/2412.15670)
   
-Yifei Sun, **Zhanghao Chen**, Hao Zheng, Wenming Deng, Jin Liu, Wenwen Min, Ahmed Elazab, Xiang Wan, Changmiao Wang*, Ruiquan Ge*
+Yifei Sun, **Zhanghao Chen**, Hao Zheng, Wenming Deng, Jin Liu, Wenwen Min, Ahmed Elazab, Xiang Wan, Changmiao Wang, Ruiquan Ge†
 </div>
 </div>
 
@@ -93,7 +103,7 @@ Yifei Sun, **Zhanghao Chen**, Hao Zheng, Wenming Deng, Jin Liu, Wenwen Min, Ahme
   
 [BS-Diff: Effective Bone Suppression Using Conditional Diffusion Models from Chest X-Ray Images](https://ieeexplore.ieee.org/abstract/document/10635371/)
   
-**Zhanghao Chen**, Yifei Sun, Wenjian Qin, Ruiquan Ge*, Cheng Pan, Wenming Deng, Zhou Liu, Wenwen Min, Ahmed Elazab, Xiang Wan, Changmiao Wang*
+**Zhanghao Chen**, Yifei Sun, Wenjian Qin, Ruiquan Ge†, Cheng Pan, Wenming Deng, Zhou Liu, Wenwen Min, Ahmed Elazab, Xiang Wan, Changmiao Wang†
 </div>
 </div>
 
@@ -102,7 +112,7 @@ Yifei Sun, **Zhanghao Chen**, Hao Zheng, Wenming Deng, Jin Liu, Wenwen Min, Ahme
   
 [UWAFA-GAN: ultra-wide-angle fluorescein angiography transformation via multi-scale generation and registration enhancement](https://ieeexplore.ieee.org/abstract/document/10509705/)
   
-Ruiquan Ge, Zhaojie Fang, Pengxue Wei, **Zhanghao Chen**, Hongyang Jiang, Ahmed Elazab, Wangting Li, Xiang Wan, Shaochong Zhang, Changmiao Wang
+Ruiquan Ge, Zhaojie Fang, Pengxue Wei, **Zhanghao Chen**, Hongyang Jiang, Ahmed Elazab, Wangting Li, Xiang Wan, Shaochong Zhang, Changmiao Wang†
 </div>
 </div>
 
@@ -111,7 +121,7 @@ Ruiquan Ge, Zhaojie Fang, Pengxue Wei, **Zhanghao Chen**, Hongyang Jiang, Ahmed 
   
 [Uwat-gan: Fundus fluorescein angiography synthesis via ultra-wide-angle transformation multi-scale gan](https://link.springer.com/chapter/10.1007/978-3-031-43990-2_70)
   
-Zhaojie Fang, **Zhanghao Chen**, Pengxue Wei, Wangting Li, Shaochong Zhang, Ahmed Elazab, Gangyong Jia, Ruiquan Ge, Changmiao Wang
+Zhaojie Fang, **Zhanghao Chen**, Pengxue Wei, Wangting Li, Shaochong Zhang, Ahmed Elazab, Gangyong Jia, Ruiquan Ge†, Changmiao Wang†
 </div>
 </div>
 
