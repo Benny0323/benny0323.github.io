@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Zhanghao Chen (陈章昊)"
-description              : "Undergraduate student at Hangzhou Dianzi University"
+description              : "Master student at Southeast University"
 repository               : "https://github.com/Benny0323"
 google_scholar_stats_use_cdn : true
 
@@ -23,8 +23,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Zhanghao Chen"
   avatar           : "images/avatar.jpg"
-  bio              : "Hangzhou Dianzi University"
-  location         : "Hangzhou, China"
+  bio              : "Southeadt University"
+  location         : "Nanjing, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=QEVTqsoAAAAJ&hl=en"
