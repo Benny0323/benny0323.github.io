@@ -75,6 +75,7 @@ I have a broad interest in deep learning models, with a primary focus on **Medic
 
 # 💰 Funding
 
+- *2025*: HDU-ITMO Joint Institute Student Science and Technology Innovation Project (**Key Member**), 💰CNY 3,000.
 - *2024*: National Undergraduate Innovation and Entrepreneurship Training Program (**Key Member**), 💰CNY 10,000.
 - *2024*: Zhejiang Provincial Undergraduate Scientific and Technological Innovation Activities Program (**Key Member**), 💰CNY 10,000.
 
