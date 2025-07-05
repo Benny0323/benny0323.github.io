@@ -50,6 +50,7 @@ I have a broad interest in deep learning models, with a primary focus on **Medic
 
 
 # 🔥 News
+- *2025.07*: &nbsp;🎉🎉 Our new paper for [IEEE J-BHI 2025](https://www.google.com/search?client=safari&rls=en&q=JBHI&ie=UTF-8&oe=UTF-8) was **Accpted**!
 - *2025.06*: &nbsp;🎉🎉 Our new paper for [MICCAI 2025](https://conferences.miccai.org/2025/en/default.asp) was **Accpted**!
 - *2025.06*: &nbsp;🎉🎉 We won the **National Third Prize** in the [10th National College Student Life Sciences Competition](https://culsc.cn/)!
 - *2024.12*: &nbsp;🎉🎉 We won the **International Bronze Medal** in the [China International College Students' Innovation Competition 2024](https://cy.ncss.cn)!
