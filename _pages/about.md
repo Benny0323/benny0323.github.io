@@ -147,32 +147,17 @@ Yifei Sun, Ruihan Yang, **Zhanghao Chen**
 </div>
 </div>
 
-# 🎼 My Favorite Music 
+# 🔬 Patent
+一种基于条件扩散模型的胸部X光图像骨抑制方法（发明公布）
 
-<script>
-  // 页面加载完成后设置音量
-  document.addEventListener('DOMContentLoaded', function() {
-    var audios = document.getElementsByClassName('myAudio');
-    for (var i = 0; i < audios.length; i++) {
-                audios[i].volume = 0.2; // 设置音量为50%
-            }
-  });
-</script>
+基于多尺度条件生成对抗网络荧光血管造影图像生成方法（发明公布）
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2025.05</div><img src='images/单车.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-  
-[Bicycle by Eason Chan](https://www.youtube.com/watch?v=AfPUiV-jamA&pp=ygUKI-Wllei7iuS6ug%3D%3D)
-  
-单车（粤）陈奕迅
+一种基于GL-LCM模型的高分辨率胸部X光图像骨抑制方法（发明公布）
 
-<audio class="myAudio" loop controls>
-  <source src="music/单车.mp3" type="audio/mpeg">
-  Your browser does not support the audio element.
-</audio>
+一种基于BS-LDM模型的高分辨率胸部X光图像骨抑制方法（发明公布）
 
-</div>
-</div>
+基于不完整三模态共注意融合的轻度认知障碍转换预测方法（发明公布）
+
 
 # 🤝 Collaborator
 [Yifei Sun in Hangzhou Dianzi University](https://diaoquesang.github.io)
