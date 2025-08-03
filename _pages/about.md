@@ -57,7 +57,7 @@ I have a broad interest in deep learning models, with a primary focus on **Medic
 - *2024.09*: &nbsp;🎉🎉 I am admitted to the Master’s Program in Computer Technology at the School of Computer Science and Engineering, **Southeast University via postgraduate recommendation**!
 - *2024.05*: &nbsp;🎉🎉 We won the **Provincial Silver Medal** in the 14th Zhejiang Province ‘Challenge Cup’ College Students’ Entrepreneurship Plan Competition!
 - *2024.05*: &nbsp;🎉🎉 We won the **National Bronze Medal** in the [China University Student Service Outsourcing Innovation and Entrepreneurship Competition 2024](http://www.fwwb.org.cn)!
-- *2024.04*: &nbsp;🎉🎉 Our new paper for [IEEE JBHI](https://www.embs.org/jbhi/) was **Accepted**!
+- *2024.04*: &nbsp;🎉🎉 Our new paper for [IEEE J-BHI](https://www.embs.org/jbhi/) was **Accepted**!
 - *2024.04*: &nbsp;🎉🎉 Our new paper for [IEEE ISBI 2024](https://biomedicalimaging.org/2024) was selected for **Oral Presentation**!
 - *2024.02*: &nbsp;🎉🎉 Our new paper for [IEEE ISBI 2024](https://biomedicalimaging.org/2024) was **Accepted**!
 - *2023.12*: &nbsp;🎉🎉 We won the **International Bronze Medal** in the [China International College Students' Innovation Competition 2023](https://cy.ncss.cn)!
@@ -110,7 +110,7 @@ Yifei Sun, **Zhanghao Chen**, Hao Zheng, Wenming Deng, Jin Liu, Wenwen Min, Ahme
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JBHI 2024</div><img src='images/UWAFA-GAN.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE J-BHI 2024</div><img src='images/UWAFA-GAN.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 [UWAFA-GAN: ultra-wide-angle fluorescein angiography transformation via multi-scale generation and registration enhancement](https://ieeexplore.ieee.org/abstract/document/10509705/)
