@@ -21,7 +21,7 @@ I recently graduated with a Bachelor’s degree in Computer Science and Technolo
 
 I have a broad interest in deep learning models, with a primary focus on **Medical Image Analysis and Generative AI Models**. I am also an enthusiastic self-learner and interested in various fields of computer science. 
 
-📫 How to contact me: [bennychan@hdu.edu.cn](bennychan@hdu.edu.cn).
+📫 How to contact me: [220252325@seu.edu.cn](220252325@seu.edu.cn).
 
 <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/benny0323">
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/benny0323">
