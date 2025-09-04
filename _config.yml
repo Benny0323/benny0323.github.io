@@ -64,6 +64,7 @@ include:
   - .htaccess
   - _pages
   - files
+  - /assets/东南大学_陈章昊_计算机技术.pdf
 exclude:
   - docs
   - google_scholar_crawler
