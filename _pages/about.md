@@ -29,32 +29,32 @@ I have a broad interest in deep learning models, with a primary focus on **Medic
 
 <div class="cv-download">
   <a class="cv-btn" href="{{ cv_path | relative_url }}" target="_blank" rel="noopener" download>
-    📄 下载我的简历（PDF）
+    📄 Download My CV
   </a>
   {% if cv_file %}
     <div class="cv-meta">
-      <span>最后更新：{{ cv_file.modified_time | date: "%Y-%m-%d" }}</span>
-      <span> · 大小：{{ cv_file.size | divided_by: 1024 | ceil }} KB</span>
+      <span>Last updated：{{ cv_file.modified_time | date: "%Y-%m-%d" }}</span>
+      <span> · Size：{{ cv_file.size | divided_by: 1024 | ceil }} KB</span>
     </div>
   {% endif %}
 </div>
 
 <style>
-  .cv-download { margin: 16px 0 24px; }
+  .cv-download { margin: 12px 0 20px; }
   .cv-btn {
     display: inline-block;
-    padding: 10px 16px;
-    border-radius: 10px;
+    padding: 8px 14px;
+    border-radius: 8px;
     background: #2b6cb0;
     color: #fff !important;
     text-decoration: none;
-    font-weight: 600;
+    font-weight: 500;
     transition: transform .06s ease-in-out, opacity .2s ease-in-out;
   }
   .cv-btn:hover { transform: translateY(-1px); opacity: .95; }
   .cv-meta {
-    margin-top: 6px;
-    font-size: 0.9em;
+    margin-top: 4px;
+    font-size: 0.8em;
     color: #555;
   }
 </style>
