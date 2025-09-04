@@ -34,7 +34,7 @@ I have a broad interest in deep learning models, with a primary focus on **Medic
   {% if cv_file %}
     <div class="cv-meta">
       <span>Last updated：{{ cv_file.modified_time | date: "%Y-%m-%d" }}</span>
-      <span> · Size：~400 KB</span>
+      <span> · Size: 389 KB</span>
     </div>
   {% endif %}
 </div>
