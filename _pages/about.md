@@ -29,7 +29,7 @@ I have a broad interest in deep learning models, with a primary focus on **Medic
 
 <div class="cv-download">
   <a class="cv-btn" href="{{ cv_path | relative_url }}" target="_blank" rel="noopener" download>
-    📄 Download My CV
+    📄 Download My Chinese CV
   </a>
   {% if cv_file %}
     <div class="cv-meta">
