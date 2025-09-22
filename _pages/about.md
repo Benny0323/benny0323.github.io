@@ -177,7 +177,7 @@ Binfeng Zou, Yifei Chen, **Zhanghao Chen**, Yifei Sun, Yifan Huang, Feiwei Qinâ€
   
 [Inter-slice Complementarity Enhanced Ring Artifact Removal using Central Region Reinforced Neural Network](N/A)
   
-Yikun Zhang, Guannan Liu, **Zhanghao Chen**, Zhiqiang Li, Yuchen Lu, Shengqi Kan, Xinyu Liu, Shipeng Xie, Shouhua Luo, Xu Ji, Yan Xi, Shouping Zhu, Jian Yang, Yang Chen, Senior Member, IEEE
+Yikun Zhang, Guannan Liu, **Zhanghao Chen**, Zhiqiang Li, Yuchen Lu, Shengqi Kan, Xinyu Liu, Shipeng Xie, Shouhua Luo, Xu Ji, Yan Xi, Shouping Zhu, Jian Yang, Yang Chen
 </div>
 </div>
 
