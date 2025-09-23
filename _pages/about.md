@@ -172,7 +172,7 @@ Binfeng Zou, Yifei Chen, **Zhanghao Chen**, Yifei Sun, Yifan Huang, Feiwei Qinâ€
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Physics in Medicine and Biology 2025</div><img src='images/RTUNet++.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Physics in Medicine and Biology 2025</div><img src='images/ICE.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 [Inter-slice Complementarity Enhanced Ring Artifact Removal using Central Region Reinforced Neural Network](N/A)
