@@ -85,6 +85,7 @@ I am currently pursuing my master’s degree at the Laboratory of Image Science 
 
 
 # 🔥 News
+- *2025.09*: &nbsp;🎉🎉 We won the **Provincial Silver Medal** in the [China International College Students’ Innovation Competition 2025](https://cy.ncss.cn/)!
 - *2025.09*: &nbsp;🎉🎉 Our new paper for [Physics in Medicine & Biology 2025](https://iopscience.iop.org/journal/0031-9155) was **Accpted**!
 - *2025.07*: &nbsp;🎉🎉 Our new paper for [IEEE J-BHI 2025](https://www.embs.org/jbhi/) was **Accpted**!
 - *2025.06*: &nbsp;🎉🎉 Our new paper for [MICCAI 2025](https://conferences.miccai.org/2025/en/default.asp) was **Accpted**!
