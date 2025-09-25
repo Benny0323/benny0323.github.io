@@ -120,6 +120,15 @@ I am currently pursuing my master’s degree at the Laboratory of Image Science 
 # 💡 Publications 
 Please visit my [Google Scholar](https://scholar.google.com/citations?user=QEVTqsoAAAAJ&hl=en) page for full publications.
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Physics in Medicine and Biology 2025</div><img src='images/ICE.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+[Inter-slice Complementarity Enhanced Ring Artifact Removal using Central Region Reinforced Neural Network](N/A)
+  
+Yikun Zhang, Guannan Liu, **Zhanghao Chen**, Zhiqiang Li, Yuchen Lu, Shengqi Kan, Xinyu Liu, Shipeng Xie, Shouhua Luo, Xu Ji, Yan Xi, Shouping Zhu, Jian Yang, Yang Chen
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2025</div><img src='images/GL-LCM.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
@@ -173,16 +182,6 @@ Zhaojie Fang, **Zhanghao Chen**, Pengxue Wei, Wangting Li, Shaochong Zhang, Ahme
 Binfeng Zou, Yifei Chen, **Zhanghao Chen**, Yifei Sun, Yifan Huang, Feiwei Qin†, Changmiao Wang
 </div>
 </div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Physics in Medicine and Biology 2025</div><img src='images/ICE.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-  
-[Inter-slice Complementarity Enhanced Ring Artifact Removal using Central Region Reinforced Neural Network](N/A)
-  
-Yikun Zhang, Guannan Liu, **Zhanghao Chen**, Zhiqiang Li, Yuchen Lu, Shengqi Kan, Xinyu Liu, Shipeng Xie, Shouhua Luo, Xu Ji, Yan Xi, Shouping Zhu, Jian Yang, Yang Chen
-</div>
-</div>
-
 
 # 🧑🏻‍💻 Software
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024.11</div><img src='images/DMBBSSCXR.gif' alt="sym" width="100%"></div></div>
