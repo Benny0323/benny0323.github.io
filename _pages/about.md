@@ -216,4 +216,4 @@ Yifei Sun, Ruihan Yang, **Zhanghao Chen**
 
 [Ruiquan Ge in Hangzhou Dianzi University](https://greyspring.github.io)
 
-[Changmiao Wang in Shenzhen Research Institute of Big Data](https://scholar.google.com/citations?user=47KhMXEAAAAJ&hl=en)
+[Changmiao Wang in Shenzhen Research Institute of Big Data](https://jiandanjinxin.github.io/changmiaowang/)
