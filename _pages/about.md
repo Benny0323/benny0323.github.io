@@ -123,9 +123,9 @@ Please visit my [Google Scholar](https://scholar.google.com/citations?user=QEVTq
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Physics in Medicine and Biology 2025</div><img src='images/ICE.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-[Inter-slice Complementarity Enhanced Ring Artifact Removal using Central Region Reinforced Neural Network](N/A)
+[Inter-slice Complementarity Enhanced Ring Artifact Removal using Central Region Reinforced Neural Network](https://iopscience.iop.org/article/10.1088/1361-6560/ae0deb)
   
-Yikun Zhang, Guannan Liu, **Zhanghao Chen**, Zhiqiang Li, Yuchen Lu, Shengqi Kan, Xinyu Liu, Shipeng Xie, Shouhua Luo, Xu Ji, Yan Xi, Shouping Zhu, Jian Yang, Yang Chen
+Yikun Zhang, Guannan Liu, **Zhanghao Chen**, Zujian Huang, Shengqi Kan, Xu Ji, Shouhua Luo, Shouping Zhu, Jian Yang and Yang Chen
 </div>
 </div>
 
