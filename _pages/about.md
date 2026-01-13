@@ -19,7 +19,7 @@ redirect_from:
 # 😉 About Me
 I am currently pursuing my master’s degree at the Laboratory of Image Science and Technology, School of Computer Science and Engineering, [Southeast University](https://www.seu.edu.cn), Nanjing, specializing in Deep Learning-Based CT Metal Artifact Reduction under the supervision of [Prof. Yikun Zhang](https://cs.seu.edu.cn/yikun/). I have a broad interest in deep learning models, particularly in Medical Image Analysis and Generative AI Models, and I am also an enthusiastic self-learner with diverse interests in computer science.
 
-🔖 Academic Services: Reviewer of [Biomedical Signal Processing and Control](https://www.sciencedirect.com/journal/biomedical-signal-processing-and-control)
+🔖 Academic Services: Reviewer of [Biomedical Signal Processing and Control (BSPC)](https://www.sciencedirect.com/journal/biomedical-signal-processing-and-control)
 
 📫 How to contact me: [220252325@seu.edu.cn](220252325@seu.edu.cn).
 
