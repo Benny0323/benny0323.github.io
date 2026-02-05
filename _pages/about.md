@@ -21,7 +21,7 @@ I am currently pursuing my master’s degree at the Laboratory of Image Science 
 
 🔖 Services: 
 - Reviewer of [Biomedical Signal Processing and Control (BSPC)](https://www.sciencedirect.com/journal/biomedical-signal-processing-and-control)
-- Teaching Assistant for Digital Image Processing, Third-Year Bachelor’s Students, Southeast University.
+- Teaching Assistant for Digital Image Processing, Third-Year Bachelor’s Students, Southeast University
 
 📫 How to contact me: [220252325@seu.edu.cn](220252325@seu.edu.cn).
 
