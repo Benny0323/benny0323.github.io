@@ -26,7 +26,7 @@ I am currently pursuing my master’s degree at the Laboratory of Image Science 
 📫 How to contact me: [220252325@seu.edu.cn](220252325@seu.edu.cn).
 
 <!-- === CV Download Module === -->
-{% assign cv_path = "/assets/东南大学_陈章昊_计算机技术.pdf" %}
+{% assign cv_path = "/assets/Academic_CV.pdf" %}
 {% assign cv_file = site.static_files | where: "path", cv_path | first %}
 
 <div class="cv-download">
