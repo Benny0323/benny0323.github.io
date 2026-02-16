@@ -89,6 +89,7 @@ I am currently pursuing my master’s degree at the Laboratory of Image Science 
 
 
 # 🔥 News
+- *2026.02*: &nbsp;🎉🎉 I’m excited to share that I’ve been invited to serve as a **reviewer for [Heliyon](https://www.cell.com/heliyon/home)**!
 - *2026.01*: &nbsp;🎉🎉 I’m excited to share that I’ve been invited to serve as a **reviewer for [Biomedical Signal Processing and Control (BSPC)](https://www.sciencedirect.com/journal/biomedical-signal-processing-and-control)**!
 - *2025.09*: &nbsp;🎉🎉 We won the **Provincial Silver Medal** in the [China International College Students’ Innovation Competition 2025](https://cy.ncss.cn/)!
 - *2025.09*: &nbsp;🎉🎉 Our new paper for [Physics in Medicine & Biology 2025](https://iopscience.iop.org/journal/0031-9155) was **Accpted**!
