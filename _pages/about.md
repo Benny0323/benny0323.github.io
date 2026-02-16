@@ -31,7 +31,7 @@ I am currently pursuing my master’s degree at the Laboratory of Image Science 
 
 <div class="cv-download">
   <a class="cv-btn" href="{{ cv_path | relative_url }}" target="_blank" rel="noopener" download>
-    📄 Download My Chinese CV
+    📄 Download My Academic CV
   </a>
   {% if cv_file %}
     <div class="cv-meta">
