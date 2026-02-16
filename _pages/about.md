@@ -131,7 +131,7 @@ Please visit my [Google Scholar](https://scholar.google.com/citations?user=QEVTq
   
 [Inter-slice Complementarity Enhanced Ring Artifact Removal using Central Region Reinforced Neural Network](https://iopscience.iop.org/article/10.1088/1361-6560/ae0deb)
   
-Yikun Zhang, Guannan Liu, **Zhanghao Chen**, Zujian Huang, Shengqi Kan, Xu Ji, Shouhua Luo, Shouping Zhu, Jian Yang and Yang Chen
+Yikun Zhang, Guannan Liu, **Zhanghao Chen**, Zujian Huang, Shengqi Kan, Xu Ji, Shouhua Luo, Shouping Zhu, Jian Yang and Yang Chen†
 </div>
 </div>
 
