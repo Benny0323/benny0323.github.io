@@ -22,6 +22,7 @@ I am currently pursuing my master’s degree at the Laboratory of Image Science 
 🔖 Services: 
 - Reviewer of [Biomedical Signal Processing and Control (BSPC)](https://www.sciencedirect.com/journal/biomedical-signal-processing-and-control), [Heliyon](https://www.cell.com/heliyon/home) and [MICCAI 2026](https://conferences.miccai.org/2026/en/default.asp).
 - TA for Digital Image Processing, Third-Year Bachelor’s Students of CS, Southeast University
+- [IEEE](https://www.ieee.org) Graduate Student Membership
 
 📫 How to contact me: [220252325@seu.edu.cn](220252325@seu.edu.cn).
 
