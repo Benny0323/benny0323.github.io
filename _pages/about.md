@@ -128,6 +128,15 @@ I am currently pursuing my master’s degree at the Laboratory of Image Science 
 # 💡 Publications 
 Please visit my [Google Scholar](https://scholar.google.com/citations?user=QEVTqsoAAAAJ&hl=en) page for full publications.
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Information Fusion 2026</div><img src='images/ICE.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+[Target Distribution and Jacobian Prior Guided Lung Ventilation Image Synthesis with Global Semantic Enhancement](https://doi.org/10.1016/j.inffus.2026.104683)
+  
+Yuxiang Ge, Jianmin Dong, **Zhanghao Chen**, Xi Wang, Jiashun Wang, Xu Ji, Yikun Zhang†, Jian Yang, Yang Chen†
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Physics in Medicine and Biology 2025</div><img src='images/ICE.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
