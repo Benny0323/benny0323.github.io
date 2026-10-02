@@ -90,7 +90,7 @@ I am currently pursuing my master’s degree at the Laboratory of Image Science 
 
 
 # 🔥 News
-- *2026.09*: &nbsp;🎉🎉 I'm excited to share that my team achieved 4th place in the [MICCAI FLARE 2026 Challenge — Task 3: Multimodal Model for Medical Image Parsing](https://www.codabench.org/competitions/7151/#/pages-tab)!
+- *2026.09*: &nbsp;🎉🎉 I'm excited to share that my team achieved 4th place in the [MICCAI FLARE 2026 Challenge — Task 3: Multimodal Model for Medical Image Parsing](https://flare-medfm.github.io/)!
 - *2026.09*: &nbsp;🎉🎉 I’m excited to share that I’ve been invited to serve as a **reviewer for [Measurement](https://www.sciencedirect.com/journal/measurement)**!
 - *2026.08*: &nbsp;🎉🎉 Our new paper for [Information Fusion](https://doi.org/10.1016/j.inffus.2026.104683) was **Accpted**!
 - *2026.02*: &nbsp;🎉🎉 I’m excited to share that I’ve been invited to serve as a **reviewer for [Heliyon](https://www.cell.com/heliyon/home) and [MICCAI 2026](https://conferences.miccai.org/2026/en/default.asp)**!
