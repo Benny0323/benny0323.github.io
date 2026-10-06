@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 # 😉 About Me
-I am currently pursuing my master’s degree at the Laboratory of Image Science and Technology, School of Computer Science and Engineering, [Southeast University](https://www.seu.edu.cn), Nanjing, under the supervision of [Prof. Yikun Zhang](https://cs.seu.edu.cn/yikun/). I have a broad interest in deep learning models, particularly in Generative AI, Multi-modal Learning, and Medical Image Analysis, and I am also an enthusiastic self-learner with diverse interests in computer science.
+I am currently pursuing my master’s degree at the Laboratory of Image Science and Technology, School of Computer Science and Engineering, [Southeast University](https://www.seu.edu.cn), Nanjing, under the supervision of [Prof. Yikun Zhang](https://cs.seu.edu.cn/yikun/). I have a broad interest in deep learning models, particularly in Generative Vision, Multi-modal Learning, and Medical Image Analysis, and I am also an enthusiastic self-learner with diverse interests in computer science.
 
 🔖 Services: 
 - Reviewer of [Biomedical Signal Processing and Control (BSPC)](https://www.sciencedirect.com/journal/biomedical-signal-processing-and-control), [Heliyon](https://www.cell.com/heliyon/home), [Measurement](https://www.sciencedirect.com/journal/measurement), and [MICCAI 2026](https://conferences.miccai.org/2026/en/default.asp).
