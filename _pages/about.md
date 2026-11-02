@@ -84,7 +84,8 @@ I am currently pursuing my master’s degree at the Laboratory of Image Science 
 - *2025.09 - Now*, Master student: Computer Science and Engineering, [Southeast University](https://www.seu.edu.cn), Nanjing, China
 
 # 💻 Internships
-- *2024.11 - 2025.02*: [Hikvision Research](https://www.hikvision.com/cn/) Institute, Hangzhou Hikvision, Hangzhou, China
+- *2026.10 - Present*: Computed Tomography Business Unit, [United Imaging Healthcare](https://global.united-imaging.com/en/), Shanghai, China
+- *2024.11 - 2025.02*: Hikvision Research Institute, [Hangzhou Hikvision]((https://www.hikvision.com/cn/)), Hangzhou, China
 - *2023.06 - 2025.06*: Healthcare Big Data Lab, [Shenzhen Research Institute of Big Data](https://www.sribd.cn), Shenzhen, China
 - *2023.06 - 2025.06*: Advanced Networking and Big Data Lab, [Hangzhou Dianzi University](https://www.hdu.edu.cn), Hangzhou, China
 
